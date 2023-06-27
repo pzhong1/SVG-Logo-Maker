@@ -26,3 +26,5 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## example scrrenshot  
 <img width="1401" alt="example ternimal" src="https://github.com/pzhong1/SVG-Logo-Maker/assets/123424361/f3f03677-0583-4432-a8b3-91f987c7c612">
+
+<img width="1408" alt="Screenshot 2023-06-27 at 1 22 20 AM" src="https://github.com/pzhong1/SVG-Logo-Maker/assets/123424361/2fa6cca8-b762-4fa9-9669-ae1f97199595">
