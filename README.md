@@ -1,4 +1,5 @@
 ## The URL of the GitHub repository  
+https://github.com/pzhong1/SVG-Logo-Maker.git 
 
 ## A walkthrough video that demonstrates the functionality of the application and passing tests.  
 
