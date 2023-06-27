@@ -25,3 +25,4 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered  
 
 ## example scrrenshot  
+<img width="1401" alt="example ternimal" src="https://github.com/pzhong1/SVG-Logo-Maker/assets/123424361/f3f03677-0583-4432-a8b3-91f987c7c612">
