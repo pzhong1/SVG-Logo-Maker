@@ -2,6 +2,7 @@
 https://github.com/pzhong1/SVG-Logo-Maker.git 
 
 ## A walkthrough video that demonstrates the functionality of the application and passing tests.  
+https://drive.google.com/file/d/10qycCNmxC1PwtgDzLHJzoEUkd-7Qr3od/view
 
 ## TASK  
 build a Node.js command-line application that takes in user input to generate a logo  
