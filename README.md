@@ -1,3 +1,7 @@
+## The URL of the GitHub repository  
+
+## A walkthrough video that demonstrates the functionality of the application and passing tests.  
+
 ## TASK  
 build a Node.js command-line application that takes in user input to generate a logo  
 this project requires Jest for testing and inquirer package install  
